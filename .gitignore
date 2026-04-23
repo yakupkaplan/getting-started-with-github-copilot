@@ -40,3 +40,15 @@ Thumbs.db
 .actrc*
 
 __pycache__/
+
+# Python virtual environments #
+################################
+venv/
+.venv/
+env/
+.env
+
+# uv package manager #
+######################
+.uv/
+uv.lock
